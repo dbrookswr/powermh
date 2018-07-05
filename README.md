@@ -18,5 +18,3 @@ This R package estimates, using simulation, power analysis for designs with mult
 ## License
  
 This project is licensed under the GPL-2|3 see the LICENSE.md file for details
-
-## A
