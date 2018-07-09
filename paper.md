@@ -28,7 +28,7 @@ affiliations:
 
 date: 5 July 2018
 
-bilbliography: paper.bib
+bibliography: paper.bib
 
 ---
 
