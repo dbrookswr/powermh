@@ -1,35 +1,23 @@
 ---
-
 title: 'powermh: Power analysis for studies with multiple hypotheses'
-
-tags:
-  
+tags: 
    - Power
    - Multiple hypotheses
    - R 
-
 authors:
-
-   - name: Daniel B. Wright
-   
+   - name: Daniel B. Wright   
      orcid: 0000-0002-4619-1848
-   
      affiliation: 1 
-
    - name: Marianna E. Carlucci 
      orcid: 0000-0003-0258-2158 
-   
      affiliation: 2
 affiliations:
    - name: Alder Graduate School of Education
      index: 1
    - name: Loyola University Maryland
      index: 2 
-
 date: 5 July 2018
-
 bibliography: paper.bib
-
 ---
 
 
