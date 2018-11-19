@@ -17,7 +17,7 @@ affiliations:
    - name: Loyola University Maryland
      index: 2 
 date: 5 July 2018
-bibliography: paper.bib
+bibliography: paperref.bib
 ---
 
 
