@@ -70,10 +70,6 @@ The following plot is produced.
 
 ![Power Plot for Example.](eg5.pdf)
 
-<img src="eg5.pdf"
-     alt="ggg"
-     style="float: left; margin-right: 10px;" />
-
 If the research only requires one contrast to be significant a much smaller sample is suggested (about 28 per condition for 80 percent power). dfv control the smoothness of the curve (by controlling the degrees of freedom of the spline) in the plot. 
 
 ```
