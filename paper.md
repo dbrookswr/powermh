@@ -1,5 +1,7 @@
 ---
 title: 'powermh: Power analysis for studies with multiple hypotheses'
+output: html_document
+bibliography: paperref.bib
 tags: 
    - Power
    - Multiple hypotheses
@@ -16,8 +18,7 @@ affiliations:
      index: 1
    - name: Loyola University Maryland
      index: 2 
-date: 5 July 2018
-bibliography: paperref.bib
+date: 15 November 2018
 ---
 
 
