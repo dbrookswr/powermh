@@ -47,7 +47,8 @@ In summary, traditional power analysis reinforces the notion that the primary go
 
 ##Simple Example
 
-Further (and more complex) examples and details of the options are available: https://github.com/dbrookswr/powermh/blob/master/pwAnova.pdf. This is Example 5 from that document.
+Further (and more complex) examples and details of the options are available: https://github.com/dbrookswr/powermh/blob/master/pwAnova.pdf. 
+This is Example 5 from that vignette.
 
 The researcher has a sample of 500 and five independent groups. The researcher is interested if all four contrasts are significant at the default five percent level (pcon in the function below can be a vector with length equal to the number of hypotheses, or a single value). The default R contrasts are used (the first group is compared with the others as if the first is a control group). The varyn option tells the function how to vary the sample size. The values reported in the plot are for one condition.
 
@@ -67,7 +68,11 @@ abline(h=.8,lty=2)
 
 The following plot is produced.
 
-[Power Plot for Example.](eg5.pdf)
+![Power Plot for Example.](eg5.pdf)
+
+<img src="eg5.pdf"
+     alt="ggg"
+     style="float: left; margin-right: 10px;" />
 
 If the research only requires one contrast to be significant a much smaller sample is suggested (about 28 per condition for 80 percent power). dfv control the smoothness of the curve (by controlling the degrees of freedom of the spline) in the plot. 
 
